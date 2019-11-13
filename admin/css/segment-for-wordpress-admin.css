@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.col-xs-12.exopite-sof-col-lg .exopite-sof-field .exopite-sof-fieldset {
+    margin-left: 5% !important;
+}
